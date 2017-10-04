@@ -12,7 +12,7 @@
     <MasterDetailPage.Master>
         <ContentPage Title="Master">
             <StackLayout Orientation="Vertical">
-                <Label Text="SXMvvm" HorizontalOptions="Center" />
+                <Label Text="SXMvvm Master Detail Page" HorizontalOptions="Center" />
             </StackLayout>
         </ContentPage>
     </MasterDetailPage.Master>
