@@ -10,7 +10,7 @@ namespace SXMvvmMasterDetailPage.ViewModels
     {
         public MasterDetailPageViewModel()
         {
-
+            // working on implementation
         }
     }
 }
